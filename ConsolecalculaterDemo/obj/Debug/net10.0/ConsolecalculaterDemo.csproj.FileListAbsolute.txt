@@ -1,0 +1,14 @@
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\bin\Debug\net10.0\ConsolecalculaterDemo.exe
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\bin\Debug\net10.0\ConsolecalculaterDemo.deps.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\bin\Debug\net10.0\ConsolecalculaterDemo.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\bin\Debug\net10.0\ConsolecalculaterDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\bin\Debug\net10.0\ConsolecalculaterDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\ConsolecalculaterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\ConsolecalculaterDemo.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\ConsolecalculaterDemo.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\ConsolecalculaterDemo.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\ConsolecalculaterDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\refint\ConsolecalculaterDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\ConsolecalculaterDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\ConsolecalculaterDemo.genruntimeconfig.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ConsolecalculaterDemo\obj\Debug\net10.0\ref\ConsolecalculaterDemo.dll

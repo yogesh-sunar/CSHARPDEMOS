@@ -1,0 +1,14 @@
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\ExpenseModelDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\ExpenseModelDemo.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\ExpenseModelDemo.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\ExpenseModelDemo.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\bin\Debug\net10.0\ExpenseModelDemo.exe
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\bin\Debug\net10.0\ExpenseModelDemo.deps.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\bin\Debug\net10.0\ExpenseModelDemo.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\bin\Debug\net10.0\ExpenseModelDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\bin\Debug\net10.0\ExpenseModelDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\ExpenseModelDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\refint\ExpenseModelDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\ExpenseModelDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\ExpenseModelDemo.genruntimeconfig.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseModelDemo\obj\Debug\net10.0\ref\ExpenseModelDemo.dll

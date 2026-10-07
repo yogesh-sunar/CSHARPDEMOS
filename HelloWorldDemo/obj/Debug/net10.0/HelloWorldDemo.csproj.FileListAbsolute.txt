@@ -1,0 +1,14 @@
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\bin\Debug\net10.0\HelloWorldDemo.exe
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\bin\Debug\net10.0\HelloWorldDemo.deps.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\bin\Debug\net10.0\HelloWorldDemo.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\bin\Debug\net10.0\HelloWorldDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\bin\Debug\net10.0\HelloWorldDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\HelloWorldDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\HelloWorldDemo.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\HelloWorldDemo.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\HelloWorldDemo.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\HelloWorldDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\refint\HelloWorldDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\HelloWorldDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\HelloWorldDemo.genruntimeconfig.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\HelloWorldDemo\obj\Debug\net10.0\ref\HelloWorldDemo.dll

@@ -1,0 +1,14 @@
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\ExpenseCollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\ExpenseCollectionDemo.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\ExpenseCollectionDemo.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\ExpenseCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\bin\Debug\net10.0\ExpenseCollectionDemo.exe
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\bin\Debug\net10.0\ExpenseCollectionDemo.deps.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\bin\Debug\net10.0\ExpenseCollectionDemo.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\bin\Debug\net10.0\ExpenseCollectionDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\bin\Debug\net10.0\ExpenseCollectionDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\ExpenseCollectionDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\refint\ExpenseCollectionDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\ExpenseCollectionDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\ExpenseCollectionDemo.genruntimeconfig.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseCollectionDemo\obj\Debug\net10.0\ref\ExpenseCollectionDemo.dll

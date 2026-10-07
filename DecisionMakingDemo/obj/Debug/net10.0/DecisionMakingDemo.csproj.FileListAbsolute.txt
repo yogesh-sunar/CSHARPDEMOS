@@ -1,0 +1,14 @@
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\DecisionMakingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\DecisionMakingDemo.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\DecisionMakingDemo.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\DecisionMakingDemo.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\bin\Debug\net10.0\DecisionMakingDemo.exe
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\bin\Debug\net10.0\DecisionMakingDemo.deps.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\bin\Debug\net10.0\DecisionMakingDemo.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\bin\Debug\net10.0\DecisionMakingDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\bin\Debug\net10.0\DecisionMakingDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\DecisionMakingDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\refint\DecisionMakingDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\DecisionMakingDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\DecisionMakingDemo.genruntimeconfig.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\DecisionMakingDemo\obj\Debug\net10.0\ref\DecisionMakingDemo.dll

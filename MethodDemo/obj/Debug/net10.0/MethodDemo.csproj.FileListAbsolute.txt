@@ -1,0 +1,14 @@
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\bin\Debug\net10.0\MethodDemo.exe
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\bin\Debug\net10.0\MethodDemo.deps.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\bin\Debug\net10.0\MethodDemo.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\bin\Debug\net10.0\MethodDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\bin\Debug\net10.0\MethodDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\MethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\MethodDemo.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\MethodDemo.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\MethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\MethodDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\refint\MethodDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\MethodDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\MethodDemo.genruntimeconfig.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\MethodDemo\obj\Debug\net10.0\ref\MethodDemo.dll

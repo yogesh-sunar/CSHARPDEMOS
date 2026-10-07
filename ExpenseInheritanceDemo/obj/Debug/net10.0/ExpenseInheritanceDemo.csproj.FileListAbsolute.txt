@@ -1,0 +1,14 @@
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\ExpenseInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\ExpenseInheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\ExpenseInheritanceDemo.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\ExpenseInheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\bin\Debug\net10.0\ExpenseInheritanceDemo.exe
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\bin\Debug\net10.0\ExpenseInheritanceDemo.deps.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\bin\Debug\net10.0\ExpenseInheritanceDemo.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\bin\Debug\net10.0\ExpenseInheritanceDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\bin\Debug\net10.0\ExpenseInheritanceDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\ExpenseInheritanceDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\refint\ExpenseInheritanceDemo.dll
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\ExpenseInheritanceDemo.pdb
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\ExpenseInheritanceDemo.genruntimeconfig.cache
+C:\Users\yoges\OneDrive\Desktop\CSHARPDEMOS\ExpenseInheritanceDemo\obj\Debug\net10.0\ref\ExpenseInheritanceDemo.dll
